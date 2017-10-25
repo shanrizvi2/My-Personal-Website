@@ -1,0 +1,19 @@
+.bg-primary
+{
+  height: 330px;
+  background-image: https://cdn.pixabay.com/photo/2015/08/14/07/46/gradient-888101_960_720.jpg !important;
+}
+.bg-primary h2
+{
+    padding: 70px 0 10px 0;
+    font-size: 34px;
+}
+.bg-primary p
+{
+    color: white;
+    font-size: 21px;
+}
+hr
+{
+    color: white;
+}
